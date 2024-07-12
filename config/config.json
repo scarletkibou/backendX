@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "DmuzPTx5jfsCv9LUXp",
+    "database": "terminal_system_management",
+    "host": "202.151.176.81",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "DmuzPTx5jfsCv9LUXp",
+    "database": "terminal_system_management_test",
+    "host": "202.151.176.81",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "DmuzPTx5jfsCv9LUXp",
+    "database": "terminal_system_management_production",
+    "host": "202.151.176.81",
+    "dialect": "postgres"
+  }
+}
